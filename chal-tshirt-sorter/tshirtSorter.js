@@ -83,7 +83,7 @@ const sorter = string => {
     return array;
 }
 
-console.log(sorter(test1))
+// console.log(sorter(test1))
 // console.log(sorter(test2))
 // console.log(sorter(test3))
 // console.log(sorter(test4))
@@ -102,7 +102,7 @@ const sizeSorter = string => {
     return string.join('');
 }
 
-console.log(sizeSorter(test1))
-console.log(sizeSorter(test2))
-console.log(sizeSorter(test3))
-console.log(sizeSorter(test4))
+// console.log(sizeSorter(test1))
+// console.log(sizeSorter(test2))
+// console.log(sizeSorter(test3))
+// console.log(sizeSorter(test4))

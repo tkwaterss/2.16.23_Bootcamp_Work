@@ -1,0 +1,15 @@
+Cipher:
+	shift vowels up by 3
+	shift constanents down by 3
+	special characters shift up by 5
+
+All shifts according to utf-16 coding
+
+I love cryptography!
+
+l%irsh%`ovmqrdodmev&
+
+Ends up not quite working due to overlap but was still a fun coding project.
+
+
+Research
